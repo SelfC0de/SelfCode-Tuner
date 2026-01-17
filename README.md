@@ -6,9 +6,8 @@ Bypass TSPU (RU Region)
 
 # 🚀 SelfCode Tuner by SelfCode
 
-<p align="center">
-  <img src="app_icon.svg" width="128" height="128" alt="SelfCode Tuner Logo">
-</p>
+![Uploading image.png…]()
+
 
 <p align="center">
   <strong>Современный VPN-клиент для обхода блокировок с поддержкой множества протоколов</strong>
