@@ -6,7 +6,6 @@ Bypass TSPU (RU Region)
 
 # 🚀 SelfCode Tuner by SelfCode
 
-![Uploading image.png…]()
 
 
 <p align="center">
